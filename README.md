@@ -8,5 +8,4 @@ it will change background color using 3 radio button . it make using `java` with
 
 Enjoy with code it be here  
 
-#### create by [Senesh Pawan](https://seneshpawan.epizy.com)
-### @SeneshCode
+#### create by [SeneshCode](https://seneshpawan.epizy.com)
