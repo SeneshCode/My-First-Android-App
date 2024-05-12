@@ -1,6 +1,6 @@
 # My First Android App 
 #### This is a my first app for create learning purpose
-it will change background color using 3 radio button . it make using `java` with `android studio`
+it will change background color using 3 radio button . it make using `android studio` with `java`
 
 - first `Green` button (radio button) click then app background color will change to green color
 - second `Red` button (radio button) click then app background color will change to red color
