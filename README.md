@@ -1,6 +1,6 @@
 # My First App
-##### This is a my first app for create learning perpos
-##### it background color change using 3 radio button 
+##### This is a my first app for create learning purpose
+##### it will change background color using 3 radio button 
 
 - first `Green` button (radio button) click then app background color will change to green color
 - second `Red` button (radio button) click then app background color will change to red color
